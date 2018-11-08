@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class LoadSceneOnClick : MonoBehaviour {
+public class ImageController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
